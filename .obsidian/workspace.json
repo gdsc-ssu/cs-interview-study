@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jin/1.1 디자인 패턴.md",
+                "file": "Jin/1.2 프로그래밍 패러다임.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 디자인 패턴"
+              "title": "1.2 프로그래밍 패러다임"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "513dabc59c9519ae",
+  "active": "c4960ef39a808a72",
   "lastOpenFiles": [
-    "Jin/1.2 프로그래밍 패러다임.md",
+    "Jin/image/Pasted image 20250515184423.png",
     "Jin/1.1 디자인 패턴.md",
-    "README.md",
-    "Jin/1.2 프로그래밍 패러다임.md"
+    "Jin/image/Pasted image 20250515194902.png",
+    "Jin/image/Pasted image 20250515184707.png",
+    "Jin/1.2 프로그래밍 패러다임.md",
+    "Jin/image/Pasted image 20250515184715.png",
+    "README.md"
   ]
 }
