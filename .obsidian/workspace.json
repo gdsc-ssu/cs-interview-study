@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Hwangon/Chapter1. 디자인 패턴과 프로그래밍 패러다임.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Chapter1. 디자인 패턴과 프로그래밍 패러다임"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e9160d35bc7a33e9",
@@ -171,8 +172,12 @@
   },
   "active": "91cf5a9aa738b553",
   "lastOpenFiles": [
+    "README.md",
+    "Hwangon/Chapter1. 디자인 패턴과 프로그래밍 패러다임.md",
+    "Jeongmin/ch1.md",
+    "Hwangon/dd.md",
+    "Jeongmin/image/image.png",
     "Jin/1.2 프로그래밍 패러다임.md",
-    "Jin/1.1 디자인 패턴.md",
-    "README.md"
+    "Jin/1.1 디자인 패턴.md"
   ]
 }
