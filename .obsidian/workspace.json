@@ -39,14 +39,12 @@
             "id": "ea204fe5873ea11d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Question/1장. 디자인 패턴과 프로그래밍 패러다임.md",
-                "mode": "source",
-                "source": false
+                "file": "Question/img/스크린샷 2025-05-15 오후 10.53.04.png"
               },
-              "icon": "lucide-file",
-              "title": "1장. 디자인 패턴과 프로그래밍 패러다임"
+              "icon": "lucide-image",
+              "title": "스크린샷 2025-05-15 오후 10.53.04"
             }
           },
           {
@@ -212,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea204fe5873ea11d",
+  "active": "f524d608012afd4f",
   "lastOpenFiles": [
-    "스크린샷 2025-05-15 오후 10.53.04.png",
-    "Jin/1.1 디자인 패턴.md",
+    "Question/img",
     "Question/1장. 디자인 패턴과 프로그래밍 패러다임.md",
+    "Question/img/스크린샷 2025-05-15 오후 10.53.04.png",
+    "Jin/1.1 디자인 패턴.md",
     "Question",
     "Jin/image/Pasted image 20250515184423.png",
     "Jin/image/Pasted image 20250515194902.png",
